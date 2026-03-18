@@ -1,2 +1,7 @@
 # 3D-Modeling-in-Autodesk-Inventor
-These documents are assignments and reports from the "Maker Fundamentals" course, which aims to teach students how to use Autodesk Inventor for 3D modeling.
+These documents are assignments and reports from the "Maker Fundamentals" course,  
+which aims to teach students how to use Autodesk Inventor for 3D modeling.  
+  
+---
+
+![執行結果截圖](./Final Project - Empire State Building/Main Data/輸出圖片/帝國大廈.png)  
