@@ -4,4 +4,4 @@ which aims to teach students how to use Autodesk Inventor for 3D modeling.
   
 ---
 
-![執行結果截圖](./Final Project - Empire State Building/Main Data/輸出圖片/帝國大廈.png)  
+![執行結果截圖](./Final%20Project%20-%20Empire%20State%20Building/Main%20Data/輸出圖片/帝國大廈.png) 
